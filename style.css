@@ -5,7 +5,7 @@ body {
 /* Barra de navegacion */
 
 .navbar {
-  padding: 2rem;
+  padding: .5rem;
   background-color: /*#f5f6f7*/#f8f1e9;
 }
 
@@ -24,13 +24,13 @@ section {
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 2rem;
   font-family: 'Secular One', sans-serif;
 }
 
 .seccion-oscura {
   color: white; /*Texto*/
-  background-color: /*#1b1b32*/ #2e1e45; /*Color fondo*/
+  background-color: /*#1b1b32*/ #151451; /*Color fondo*/
 }
 
 .seccion-clara {
@@ -55,8 +55,8 @@ h1 {
 
 .btn-info {
   font-size: 1.1rem;
-  margin: 20px;
-  background-color: /*#b0a0fc*/ #ca84e4; /*Color botones*/
+  margin: 25px;
+  background-color: /*#b0a0fc*/ #3230c2; /*Color botones*/
 }
 
 .texto-negro {
@@ -71,18 +71,18 @@ h1 {
 
 .hero {
   background-color: /*#f5f6f7*/ #f8f1e9 ;
-  min-height: 450px;
+  min-height: 350px;
   text-align: center;
 }
 
 .hero-principal {
-  padding: 3rem;
+  padding: 1rem;
 }
 
 .hero-imagen-desarrollador {
-  width: 200px;
-  height: 200px;
-  margin: 20px;
+  width: 180px;
+  height: 180px;
+  margin: 10px;
 }
 
 .hero-principal h2 {
@@ -94,7 +94,7 @@ h1 {
 /* Sobre mi */
 
 .sobre-mi {
-  height: 500px;
+  height: 350px;
   padding: 10px;
 }
 
@@ -121,13 +121,13 @@ h1 {
 
 .experiencia .columna:hover {
   color: white;
-  background-color: /*#1b1b32*/ #2e1e45; /*Color hover*/
+  background-color: /*#1b1b32*/ #151451; /*Color hover*/
 }
 
 .experiencia i {
   font-size: 2.5rem;
-  color: /*#7ade30*/ #ff695c;
-  background-color: #59248a;
+  color: /*#7ade30*/ #ffe606fd;
+  background-color: #3230c2;
   padding: 8px 19px;
   border-radius: 50%;
 }
@@ -151,7 +151,7 @@ h1 {
 /* Proyectos */
 
 .proyectos-recientes {
-  padding: 40px;
+  padding: 10px;
 }
 
 .proyectos-recientes img {
@@ -164,7 +164,7 @@ h1 {
 }
 
 .proyectos-contenedor {
-  padding-top: 60px;
+  padding-top: 40px;
   margin-bottom: 40px;
 }
 
@@ -206,31 +206,14 @@ h1 {
   margin: 10px;
 }
 
-/* Articulos */
-
-.articulos {
-  min-height: 500px;
-  padding: 30px;
-}
-
-.articulos .card {
-  width: 80%;
-  max-width: 600px;
-  margin: 20px;
-}
-
-.articulos .card-header {
-  font-weight: bold;
-}
-
 /* Testimonios */
 
 .testimonios {
-  padding: 40px 40px 80px 40px;
+  padding: 20px 20px 60px 20px;
 }
 
 .testimonios .carousel {
-  max-width: 800px;
+  max-width: 850px;
 }
 
 .carousel-item {
@@ -254,7 +237,7 @@ h1 {
 
 .testimonio-texto {
   max-width: 70%;
-  font-size: 20px;
+  font-size: 18px;
   text-align: center;
   font-family: 'Secular One', sans-serif;
 }
@@ -287,7 +270,7 @@ h1 {
 
 .contacto .rectangulo {
   margin-top: -5rem;
-  background-color: /*rgb(13, 110, 253)*/#ac68c5/*#b0a0fc*/;
+  background-color: /*rgb(13, 110, 253)*/#3230c2/*#b0a0fc*/;
   border-radius: 10px;
   box-shadow: 0px 1px 4px 1px white;
 }
@@ -300,7 +283,7 @@ h1 {
 
 .contacto .descripcion {
   color: white;
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 
 .contacto button {
@@ -332,7 +315,7 @@ h1 {
 /* Pie de pagina (footer) */
 
 footer {
-  min-height: 500px;
+  min-height: 350px;
 }
 
 .footer-logo {
@@ -379,14 +362,14 @@ footer {
 .derechos-de-autor {
   font-size: 15px;
   color: #aeaeae;
-  padding: 20px;
+  padding: 10px;
 }
 
 /* Adaptable (Responsivo) */
 
 @media screen and (max-width: 400px) {
   .overlay p {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   .overlay i {
@@ -402,17 +385,17 @@ footer {
 
 @media screen and (max-width: 800px) {
   .testimonio-imagen {
-    height: 120px;
-    width: 120px;
+    height: 100px;
+    width: 100px;
   }
 
   .testimonio-texto {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 
 @media screen and (min-width: 700px) {
   .hero-inferior-imagen {
-    max-width: 600px;
+    max-width: 400px;
   }
 }
