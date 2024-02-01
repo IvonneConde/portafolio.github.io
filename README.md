@@ -11,6 +11,9 @@ As a web developer, I specialize in HTML, CSS, JavaScript, React, TypeScript, an
 - [**GitHub**](https://github.com/IvonneConde)
 - [**LinkedIn**](https://www.linkedin.com/in/ivonne-conde/)
 
+  ![Portfolio](imagenes/Portfolio.png)
+  ![Projects](imagenes/Projects.png)
+
 ## Technologies
 
 This website was created with:
@@ -34,7 +37,7 @@ Feel free to explore my portfolio! You can navigate through different projects. 
 
 - Email: ivonneconde91@gmail.com
 - LinkedIn: [Ivonne Conde](https://www.linkedin.com/in/ivonne-conde/)
-- Twitter: [IvOnTheCode]([https://twitter.com/your_twitter](https://twitter.com/IvOnTheCode))
+- Twitter: [IvOnTheCode](https://twitter.com/IvOnTheCode)
 
 ## Contributions
 
