@@ -1,48 +1,46 @@
-# Portafolio Adaptable (Responsive) con Bootstrap 5
+# Ivonne Conde's Portfolio
 
-Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web adaptable a dispositivos de distintos tamaños (este tipo de sitio web se conoce en inglés como "responsive"). 
+Welcome to my portfolio! Here you'll find a collection of my projects and works related to web development. If you have any inquiries or would like to collaborate, don't hesitate to contact me.
 
-El propósito de esta página web es mostrar el portafolio de proyectos de un(a) desarrollador(a) y su experiencia. Incluye una descripción breve de su motivación, experiencia, proyectos, artículos publicados y formas de contacto. 
+As a web developer, I specialize in HTML, CSS, JavaScript, React, TypeScript, and more. My main focus is on crafting solutions that enrich user experiences through the power of technology.
 
-También incluye imágenes alternativas en la carpeta `imagenes` en caso de que se desee personalizar la imagen principal del desarrollador, además de animación a la escritura de la página web con JavaScript.
+## Contents
 
-### Capturas de pantalla:
+- [**Featured Projects**](https://portafolioivonne.netlify.app/#proyectos): Here you'll find a selection of my standout projects.
+- [**Visit my portfolio online**](https://portafolioivonne.netlify.app/)
+- [**GitHub**](https://github.com/IvonneConde)
+- [**LinkedIn**](https://www.linkedin.com/in/ivonne-conde/)
 
-Primera parte de la página web:
+## Technologies
 
-![Primera parte de la página web](imagenes/readme/screenshot1.png)
+This website was created with:
 
-Experiencia:
+- HTML
+- CSS
+- JavaScript 
+- Bootstrap 5
 
-![Experiencia](imagenes/readme/screenshot2.png)
+In addition, **Google Fonts** were included to customize the font and **Bootstrap icons** were incorporated to add icons such as arrows and logos of popular social media networks. 
 
-Proyectos:
+## Language
 
-![Proyectos](imagenes/readme/screenshot3.png)
+The custom classes and attributes are written in Spanish. Bootstrap-related classes are included in English.
 
-Testimonios:
+## Usage Instructions
 
-![Testimonios](imagenes/readme/screenshot4.png)
+Feel free to explore my portfolio! You can navigate through different projects. If you have any questions or comments, I'll be happy to hear from you.
 
-Contacto:
+## Contact
 
-![Contacto](imagenes/readme/screenshot5.png)
+- Email: ivonneconde91@gmail.com
+- LinkedIn: [Ivonne Conde](https://www.linkedin.com/in/ivonne-conde/)
+- Twitter: [IvOnTheCode]([https://twitter.com/your_twitter](https://twitter.com/IvOnTheCode))
 
-## Tecnologías
+## Contributions
 
-Esta página web fue creada con:
+Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
-* HTML
-* CSS
-* JavaScript 
-* Bootstrap 5
+## Acknowledgements
 
-Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstrap icons** para incorporar íconos como flechas y logos de redes sociales populares. 
-
-## Español
-
-El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyeron en inglés.
-
-
-
+I'd like to thank [Laboratoria](https://github.com/Laboratoria) for their guidance and teachings throughout the program.
 
